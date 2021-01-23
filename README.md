@@ -1,3 +1,1 @@
 # python 
-## opencv face 
-## wordcloud
